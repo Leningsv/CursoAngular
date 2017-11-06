@@ -11,6 +11,7 @@ import { HomeComponent,
   Page1Component, 
   Page2Component, 
   Page3Component } from './index';
+import { Subpage1Component } from './subpage1/subpage1.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { HomeComponent,
     Page1Component,
     Page2Component,
     Page3Component,
-    HomeComponent
+    HomeComponent,
+    Subpage1Component
   ],
   imports: [
     BrowserModule,

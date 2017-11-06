@@ -1,3 +1,7 @@
 <p>
-  page3 works!
+  Paso de parametros anidado   
 </p>
+<ul>
+  <li [routerLink]="['subpage1',1]" routerLinkActive="active">subpage1 Parametros Anidaos</li>
+</ul>
+<button type="button" (click)="navigateSubpage(1)">Navegar Page3 -Parametros Anidados</button>

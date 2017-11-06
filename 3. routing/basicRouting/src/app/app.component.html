@@ -7,8 +7,9 @@
 <ul>
   <li [routerLink]="['home']" routerLinkActive="active">Home</li>
   <li [routerLink]="['page1']" routerLinkActive="active">Page1</li>
-  <li [routerLink]="['page2']" routerLinkActive="active">Page2</li>
-  <li [routerLink]="['page3']" routerLinkActive="active">Page2</li>
+  <li [routerLink]="['page2',1]" routerLinkActive="active">Page2 - Parametros</li>
+  <li [routerLink]="['page3']" routerLinkActive="active">Page3 -Parametros Anidados</li>
 </ul>
+
 <router-outlet></router-outlet>
 
