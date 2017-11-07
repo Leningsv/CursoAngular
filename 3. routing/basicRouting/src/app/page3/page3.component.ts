@@ -16,6 +16,6 @@ export class Page3Component implements OnInit {
   }
   navigateSubpage(parameter:number){
     console.log(parameter);
-    this._router.navigate(['/subpage1',parameter])
+    this._router.navigate(['page3/subpage1',parameter]);
   }
 }
