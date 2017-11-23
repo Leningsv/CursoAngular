@@ -6,15 +6,21 @@
 
 ## 8. miscelaneus
 
-1. **ngClass:** components/class
+1. **ngClass:** app/components/class
 
-1. **Directivas:** components/home/home.component.ts y directives/resalt.directive.ts
+1. **Directivas:** app/components/home/home.component.ts y app/directives/resalt.directive.ts
 
-1. **ngStyle:** components/ng-style/ng-style.component.ts
+1. **ngStyle:** app/components/ng-style/ng-style.component.ts
 
-1. **ngSwitch:** components/ng-switch
+1. **ngSwitch:** app/components/ng-switch
 
-1. **Routing Avanzado - Childrens:** components/user
+1. **Routing Avanzado - Childrens:** app/components/user
+
+## 9. authapp
+
+1. **Auth0:** app/services/auth.service.ts y app/components/navbar/navbar.component.html, etc.
+
+1. **Rutas protegidas - AuthGuard:** app/services/auth-guard.service.ts y app/app.routing.ts
 
 ### Migracion angular 4 to 5
 
