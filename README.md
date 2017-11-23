@@ -6,7 +6,7 @@
 
 ## 8. miscelaneus
 
-1. ** components/class/ ** - [ngClass]
+1. **components/class/** - [ngClass]
 
 1. 
 
