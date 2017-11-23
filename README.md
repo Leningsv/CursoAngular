@@ -6,13 +6,13 @@
 
 ## 8. miscelaneus
 
-1. [ngClass]: components/class
+1. ngClass: components/class
 
 1. Directivas: components/home/home.component.ts y directives/resalt.directive.ts
 
-1. [ngStyle]: components/ng-style/ng-style.component.ts
+1. ngStyle: components/ng-style/ng-style.component.ts
 
-1. [ngSwitch]: components/ng-switch
+1. ngSwitch: components/ng-switch
 
 1. Routing Avanzado - Childrens: components/user
 
