@@ -1,31 +1,15 @@
-# CursoAngular
+# Angular
 
-## Correr Angular en el Navegador
+# Angular Redux
 
-`https://stackblitz.com/github/[UrlGit PryectoAngular]`
 
-## 3. routing/basicRouting
+# Biography
 
-1. Routing Basico
-
-## 8. miscelaneus
-
-1. **ngClass:** app/components/class
-
-1. **Directivas:** app/components/home/home.component.ts y app/directives/resalt.directive.ts
-
-1. **ngStyle:** app/components/ng-style/ng-style.component.ts
-
-1. **ngSwitch:** app/components/ng-switch
-
-1. **Routing Avanzado - Childrens:** app/components/user
-
-## 9. authapp
-
-1. **Auth0:** app/services/auth.service.ts y app/components/navbar/navbar.component.html, etc.
-
-1. **Rutas protegidas - AuthGuard:** app/services/auth-guard.service.ts y app/app.routing.ts
-
-### Migracion angular 4 to 5
-
-https://stackoverflow.com/questions/47104188/migrating-angular-4-x-to-angular-5
+1. Angular Material: https://material.angular.io/
+1. BlockUi:  https://github.com/kuuurt13/ng-block-ui
+1. Notifications, alerts: http://alertifyjs.com/
+1. Interceptor global errors: https://angular.io/api/core/ErrorHandler
+1. RXJS: https://rxjs-dev.firebaseapp.com/
+1. Firebase: https://github.com/angular/angularfire2
+1. WebCam: https://github.com/basst314/ngx-webcam
+1. PDF: https://www.npmjs.com/package/essence-ng2-print

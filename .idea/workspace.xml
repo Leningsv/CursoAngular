@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9913f97c-9f35-4200-96f7-e53be361e04e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20. charts/.angular-cli.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20. charts/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20. charts/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20. charts/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20. charts/e2e/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20. charts/e2e/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20. charts/e2e/tsconfig.e2e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20. charts/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20. charts/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20. charts/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20. charts/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20. charts/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20. charts/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20. charts/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20. charts/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20. charts/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20. charts/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20. charts/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20. charts/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20. charts/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20. charts/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20. charts/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20. charts/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20. charts/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20. charts/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20. charts/src/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20. charts/src/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20. charts/src/typings.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20. charts/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20. charts/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/.angular-cli.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/e2e/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/e2e/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/e2e/tsconfig.e2e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/src/app/app.routes.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/src/app/home/home.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/src/app/home/home.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/src/app/home/home.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/src/app/home/home.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/src/app/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/src/app/page1/page1.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/src/app/page1/page1.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/src/app/page1/page1.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/src/app/page1/page1.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/src/app/page2/page2.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/src/app/page2/page2.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/src/app/page2/page2.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/src/app/page2/page2.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/src/app/page3/page3.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/src/app/page3/page3.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/src/app/page3/page3.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/src/app/page3/page3.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/src/app/subpage1/subpage1.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/src/app/subpage1/subpage1.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/src/app/subpage1/subpage1.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/src/app/subpage1/subpage1.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/src/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/src/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/src/typings.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. routing/basicRouting/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/.angular-cli.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/e2e/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/e2e/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/e2e/tsconfig.e2e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/app/app.routes.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/app/components/class/class.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/app/components/class/class.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/app/components/css/css.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/app/components/home/home.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/app/components/navbar/navbar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/app/components/navbar/navbar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/app/components/ng-style/ng-style.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/app/components/ng-switch/ng-switch.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/app/components/ng-switch/ng-switch.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/app/components/user/detail-user.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/app/components/user/edit-user.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/app/components/user/new-user.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/app/components/user/user.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/app/components/user/user.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/app/components/user/user.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/app/components/user/user.routes.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/app/directives/resalt.directive.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/b4/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/b4/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/b4/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/b4/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/font-awesome/HELP-US-OUT.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/font-awesome/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/font-awesome/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/font-awesome/less/animated.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/font-awesome/less/bordered-pulled.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/font-awesome/less/core.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/font-awesome/less/fixed-width.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/font-awesome/less/font-awesome.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/font-awesome/less/icons.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/font-awesome/less/larger.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/font-awesome/less/list.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/font-awesome/less/mixins.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/font-awesome/less/path.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/font-awesome/less/rotated-flipped.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/font-awesome/less/screen-reader.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/font-awesome/less/stacked.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/font-awesome/less/variables.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/font-awesome/scss/_animated.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/font-awesome/scss/_bordered-pulled.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/font-awesome/scss/_core.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/font-awesome/scss/_fixed-width.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/font-awesome/scss/_icons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/font-awesome/scss/_larger.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/font-awesome/scss/_list.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/font-awesome/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/font-awesome/scss/_path.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/font-awesome/scss/_rotated-flipped.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/font-awesome/scss/_screen-reader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/font-awesome/scss/_stacked.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/font-awesome/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/font-awesome/scss/font-awesome.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/jquery/jquery-3.2.1.slim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/assets/popper/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/src/typings.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. miscelaneus/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/.angular-cli.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/e2e/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/e2e/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/e2e/tsconfig.e2e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/app/app.routing.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/app/components/home/home.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/app/components/home/home.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/app/components/home/home.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/app/components/navbar/navbar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/app/components/navbar/navbar.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/app/components/navbar/navbar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/app/components/price/price.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/app/components/price/price.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/app/components/price/price.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/app/components/protect/protect.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/app/components/protect/protect.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/app/components/protect/protect.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/app/services/auth-guard.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/app/services/auth.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/b4/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/b4/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/b4/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/b4/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/font-awesome/HELP-US-OUT.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/font-awesome/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/font-awesome/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/font-awesome/less/animated.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/font-awesome/less/bordered-pulled.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/font-awesome/less/core.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/font-awesome/less/fixed-width.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/font-awesome/less/font-awesome.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/font-awesome/less/icons.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/font-awesome/less/larger.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/font-awesome/less/list.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/font-awesome/less/mixins.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/font-awesome/less/path.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/font-awesome/less/rotated-flipped.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/font-awesome/less/screen-reader.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/font-awesome/less/stacked.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/font-awesome/less/variables.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/font-awesome/scss/_animated.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/font-awesome/scss/_bordered-pulled.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/font-awesome/scss/_core.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/font-awesome/scss/_fixed-width.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/font-awesome/scss/_icons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/font-awesome/scss/_larger.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/font-awesome/scss/_list.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/font-awesome/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/font-awesome/scss/_path.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/font-awesome/scss/_rotated-flipped.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/font-awesome/scss/_screen-reader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/font-awesome/scss/_stacked.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/font-awesome/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/font-awesome/scss/font-awesome.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/jquery/jquery-3.2.1.slim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/assets/popper/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/src/typings.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9. authapp/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployment/.angular-cli.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployment/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployment/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployment/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployment/e2e/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployment/e2e/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployment/e2e/tsconfig.e2e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployment/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployment/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployment/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployment/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployment/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployment/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployment/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployment/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployment/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployment/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployment/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployment/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployment/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployment/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployment/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployment/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployment/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployment/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployment/src/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployment/src/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployment/src/typings.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployment/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deployment/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireChat/.angular-cli.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireChat/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireChat/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireChat/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireChat/e2e/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireChat/e2e/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireChat/e2e/tsconfig.e2e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireChat/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireChat/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireChat/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireChat/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireChat/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireChat/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireChat/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireChat/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireChat/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireChat/src/app/components/chat/chat.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireChat/src/app/components/chat/chat.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireChat/src/app/components/login/login.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireChat/src/app/components/login/login.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireChat/src/app/interfaces/mensaje.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireChat/src/app/providers/chat.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireChat/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireChat/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireChat/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireChat/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireChat/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireChat/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireChat/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireChat/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireChat/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireChat/src/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireChat/src/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireChat/src/typings.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireChat/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fireChat/tslint.json" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1427978264">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="md" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="md" value="286" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Markdown" value="259" />
+          <entry key="PLAIN_TEXT" value="27" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="34">
+                <caret line="2" column="15" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="15" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/angular/20. charts/package.json" />
+      <path value="$PROJECT_DIR$/angular/3. routing/basicRouting/package.json" />
+      <path value="$PROJECT_DIR$/angular/8. miscelaneus/package.json" />
+      <path value="$PROJECT_DIR$/angular/9. authapp/package.json" />
+      <path value="$PROJECT_DIR$/angular/deployment/package.json" />
+      <path value="$PROJECT_DIR$/angular/fireChat/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CursoAngular" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CursoAngular" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9913f97c-9f35-4200-96f7-e53be361e04e" name="Default Changelist" comment="" />
+      <created>1545707210977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545707210977</updated>
+      <workItem from="1545707212322" duration="193000" />
+      <workItem from="1545707441400" duration="1183000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1376000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="15" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
